@@ -1,6 +1,5 @@
 ## Level-Set-Segmentation 
-In this project, we will release a series of codes based on the [level set methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467299), including the applications in image segmentation and 
-object tracking, which are introduced as follows:
+In this project, we will release a series of codes based on the [level set methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467299) for image segmentation. Currently,  demo codes for [基于边缘信息与偏移场矫正的多相 Chan-Vese 图像分割模型](http://www.cnki.com.cn/Article/CJFDTotal-XBGD201403020.htm) and [Correntropy-based level set method for medical image segmentation and bias correction](https://www.sciencedirect.com/science/article/pii/S0925231217300322) are included, and we will continue release more codes in the future.
 
 ## 1. MLBC
  - It is an application of image segmentation, which aims to segment multiple objects in an input image along with the bias field correction. 
