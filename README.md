@@ -18,4 +18,14 @@ object tracking, which are introduced as follows:
   pages={434--439},
   year={2014}
 }
+
+@article{zhou2017correntropy,
+  title={Correntropy-based level set method for medical image segmentation and bias correction},
+  author={Zhou, Sanping and Wang, Jinjun and Zhang, Mengmeng and Cai, Qing and Gong, Yihong},
+  journal={Neurocomputing},
+  volume={234},
+  pages={216--229},
+  year={2017},
+  publisher={Elsevier}
+}
 ```
