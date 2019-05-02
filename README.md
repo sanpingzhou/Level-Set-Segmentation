@@ -5,6 +5,9 @@ object tracking, which are introduced as follows:
 1. MLBC
  It is an application of image segmentation, which aims to segment multiple objects in an input image along with the bias field correction. If you find this code is helpful, please cite the following paper:
  
+ ### Citation
+ Please kindly cite this paper in your publications if it helps your research:
+ 
  ```
 @article{周三平2014基于边缘信息与偏移场矫正的多相,
   title={基于边缘信息与偏移场矫正的多相 Chan-Vese 图像分割模型},
