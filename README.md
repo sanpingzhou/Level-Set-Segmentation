@@ -6,7 +6,7 @@ In this project, we will release a series of codes based on the [level set metho
  
 ## 2. CLSM
 
- - It is
+ - It presents a novel correntropy-based level set method (CLSM) for medical image segmentation and bias field correction.
  
  ### Citation
  Please kindly cite this paper in your publications if it helps your research:
